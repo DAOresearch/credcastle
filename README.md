@@ -18,7 +18,7 @@ Before you venture off into to land of cred, you'll need to understand a few thi
 
 ![CredCastle Simple Diagram](https://i.imgur.com/EGdpUsq.png)
 
-![CredCastle cadCAD differential Specification Diagram](https://i.imgur.com/LfEpreH.png)
+![CredCastle cadCAD differential Specification Diagram](images/credcastle_diffspec.jpg)
 
 <br>
 
